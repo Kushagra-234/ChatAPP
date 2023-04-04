@@ -1,2 +1,3 @@
 Snappify -
-A chat app
+A chat app  made using Reactjs,Firebase
+ 
